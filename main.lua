@@ -1,33 +1,3 @@
-Skip to content
-Product 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-7GrandDadPGN
-/
-RiseForRoblox
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-RiseForRoblox/main.lua
-@7GrandDadPGN
-7GrandDadPGN Update main.lua
-Latest commit ee742dd 29 days ago
- History
- 1 contributor
-1086 lines (1054 sloc)  43.7 KB
-   
 local riseoptions = {
     CustomText = "",
     Theme = "Rise Blend",
@@ -1114,16 +1084,4 @@ spawn(function()
         SaveSettings()
     until (guilib.ScreenGui == nil or guilib.ScreenGui.Parent == nil)
 end)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 1
